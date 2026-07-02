@@ -1,6 +1,11 @@
 {
   "server.dll": {
     "classes": {
+      "1": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
       "AI_BaseNPCAnimGraph_DebugSnapshotData_t": {
         "fields": {
           "b_action_restart": 16,
@@ -12042,6 +12047,11 @@
         "fields": {
           "m_pJoint": 0
         },
+        "metadata": [],
+        "parent": null
+      },
+      "_": {
+        "fields": {},
         "metadata": [],
         "parent": null
       },

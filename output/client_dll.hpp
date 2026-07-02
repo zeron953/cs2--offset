@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-07-01 03:16:44.559931800 UTC
+// 2026-07-02 14:43:55.141117900 UTC
 
 #pragma once
 
@@ -9,7 +9,7 @@
 namespace cs2_dumper {
     namespace schemas {
         // Module: client.dll
-        // Class count: 535
+        // Class count: 536
         // Enum count: 12
         namespace client_dll {
             // Alignment: 4
@@ -5813,6 +5813,10 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_PreGenerationKVs = 0x18; // KeyValues3
                 constexpr std::ptrdiff_t m_FinalKVs = 0x58; // KeyValues3
                 constexpr std::ptrdiff_t m_vecGeneratedTextures = 0x80; // CUtlVector<GeneratedTextureHandle_t>
+            }
+            // Parent: None
+            // Field count: 0
+            namespace _P_9__ {
             }
         }
     }

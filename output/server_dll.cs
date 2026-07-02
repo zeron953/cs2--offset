@@ -1,9 +1,9 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-07-01 03:16:44.559931800 UTC
+// 2026-07-02 14:43:55.141117900 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: server.dll
-    // Class count: 944
+    // Class count: 948
     // Enum count: 179
     public static class ServerDll {
         // Alignment: 4
@@ -12208,6 +12208,22 @@ namespace CS2Dumper.Schemas {
         public static class Relationship_t {
             public const nint disposition = 0x0; // Disposition_t
             public const nint priority = 0x4; // int32
+        }
+        // Parent: None
+        // Field count: 0
+        public static class 1 {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class _ {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class _ {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class _ {
         }
     }
 }

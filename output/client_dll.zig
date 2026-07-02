@@ -1,10 +1,10 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-07-01 03:16:44.559931800 UTC
+// 2026-07-02 14:43:55.141117900 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
         // Module: client.dll
-        // Class count: 535
+        // Class count: 536
         // Enum count: 12
         pub const client_dll = struct {
             // Alignment: 4
@@ -5808,6 +5808,10 @@ pub const cs2_dumper = struct {
                 pub const m_PreGenerationKVs: usize = 0x18; // KeyValues3
                 pub const m_FinalKVs: usize = 0x58; // KeyValues3
                 pub const m_vecGeneratedTextures: usize = 0x80; // CUtlVector<GeneratedTextureHandle_t>
+            };
+            // Parent: None
+            // Field count: 0
+            pub const _P_9__ = struct {
             };
         };
     };

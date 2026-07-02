@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-07-01 03:16:44.559931800 UTC
+// 2026-07-02 14:43:55.141117900 UTC
 
 #pragma once
 
@@ -9,7 +9,7 @@
 namespace cs2_dumper {
     namespace schemas {
         // Module: server.dll
-        // Class count: 944
+        // Class count: 948
         // Enum count: 179
         namespace server_dll {
             // Alignment: 4
@@ -12214,6 +12214,22 @@ namespace cs2_dumper {
             namespace Relationship_t {
                 constexpr std::ptrdiff_t disposition = 0x0; // Disposition_t
                 constexpr std::ptrdiff_t priority = 0x4; // int32
+            }
+            // Parent: None
+            // Field count: 0
+            namespace 1 {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace _ {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace _ {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace _ {
             }
         }
     }

@@ -1,10 +1,10 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-07-01 03:16:44.559931800 UTC
+// 2026-07-02 14:43:55.141117900 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
         // Module: server.dll
-        // Class count: 944
+        // Class count: 948
         // Enum count: 179
         pub const server_dll = struct {
             // Alignment: 4
@@ -12173,6 +12173,22 @@ pub const cs2_dumper = struct {
             pub const Relationship_t = struct {
                 pub const disposition: usize = 0x0; // Disposition_t
                 pub const priority: usize = 0x4; // int32
+            };
+            // Parent: None
+            // Field count: 0
+            pub const @"1" = struct {
+            };
+            // Parent: None
+            // Field count: 0
+            pub const _ = struct {
+            };
+            // Parent: None
+            // Field count: 0
+            pub const _ = struct {
+            };
+            // Parent: None
+            // Field count: 0
+            pub const _ = struct {
             };
         };
     };
