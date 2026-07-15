@@ -1,10 +1,10 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-07-13 20:15:50.186153900 UTC
+// 2026-07-15 21:11:00.473951900 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: client.dll
     // Class count: 563
-    // Enum count: 18
+    // Enum count: 14
     public static class ClientDll {
         // Alignment: 4
         // Member count: 5
@@ -142,21 +142,6 @@ namespace CS2Dumper.Schemas {
             COMP_MAT_MUTATOR_CONDITION_INPUT_CONTAINER_EXISTS = 0x0,
             COMP_MAT_MUTATOR_CONDITION_INPUT_CONTAINER_VALUE_EXISTS = 0x1,
             COMP_MAT_MUTATOR_CONDITION_INPUT_CONTAINER_VALUE_EQUALS = 0x2
-        }
-        // Alignment: 1
-        // Member count: 0
-        public enum _h____ : byte {
-
-        }
-        // Alignment: 1
-        // Member count: 0
-        public enum ______ : byte {
-
-        }
-        // Alignment: 1
-        // Member count: 0
-        public enum _P____ : byte {
-
         }
         // Parent: C_CSGO_TeamPreviewCharacterPosition
         // Field count: 0

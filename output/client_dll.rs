@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-07-13 20:15:50.186153900 UTC
+// 2026-07-15 21:11:00.473951900 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -7,7 +7,7 @@ pub mod cs2_dumper {
     pub mod schemas {
         // Module: client.dll
         // Class count: 563
-        // Enum count: 18
+        // Enum count: 14
         pub mod client_dll {
             // Alignment: 4
             // Member count: 5
@@ -159,24 +159,6 @@ pub mod cs2_dumper {
                 COMP_MAT_MUTATOR_CONDITION_INPUT_CONTAINER_EXISTS = 0x0,
                 COMP_MAT_MUTATOR_CONDITION_INPUT_CONTAINER_VALUE_EXISTS = 0x1,
                 COMP_MAT_MUTATOR_CONDITION_INPUT_CONTAINER_VALUE_EQUALS = 0x2
-            }
-            // Alignment: 1
-            // Member count: 0
-            #[repr(u8)]
-            pub enum _h____ {
-
-            }
-            // Alignment: 1
-            // Member count: 0
-            #[repr(u8)]
-            pub enum ______ {
-
-            }
-            // Alignment: 1
-            // Member count: 0
-            #[repr(u8)]
-            pub enum _P____ {
-
             }
             // Parent: C_CSGO_TeamPreviewCharacterPosition
             // Field count: 0
