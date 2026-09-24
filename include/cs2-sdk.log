@@ -1,0 +1,4 @@
+11:13:20 [ERROR] outdated pattern: dwSensitivity_sensitivity
+11:13:20 [ERROR] outdated pattern: dwNetworkGameClient_isBackgroundMap
+11:13:20 [ERROR] outdated pattern: dwSoundSystem
+11:13:47 [WARN] 6 Pattern(s) matched more than once in their .text section — consider tightening
